@@ -3,7 +3,7 @@ My submissions for the assignments of the class "Probabilistic Graphical Models"
 
 ### Assignment 1 - Regression
 
-[Code](A1 - Regression/PGM_DM1.ipynb)
+[Code](./A1-Regression/PGM_DM1.ipynb)
 
 [Report] (A1 - Regression/report.pdf)
 
