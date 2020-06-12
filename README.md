@@ -9,6 +9,13 @@ My submissions for the assignments of the class "Probabilistic Graphical Models"
 
 ### Assignment 2 - EM-algorithm
 
+[Code 1](A2-EM-Algorithm/1_EM_KMeans.ipynb) [Code 2](A2-EM-Algorithm/2_Graphs_Ising.ipynb)
+
+[Report](A2-EM-Algorithm/report.pdf)
+
 
 ### Assignment 3 - Gibbs sampling and mean field variational bayes
 
+[Code](A3-GibbsSamplingAndMeanFieldVariationalBayes/MVA_DM3_Lucas_Elbert.ipynb)
+
+[Report](A3-GibbsSamplingAndMeanFieldVariationalBayes/report.pdf)
