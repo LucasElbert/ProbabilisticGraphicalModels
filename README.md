@@ -3,11 +3,12 @@ My submissions for the assignments of the class "Probabilistic Graphical Models"
 
 ### Assignment 1 - Regression
 
-[Code](./A1\ -\ Regression/PGM_DM1.ipynb)
+[Code](A1-Regression/PGM_DM1.ipynb)
 
-[Report] (A1 - Regression/report.pdf)
+[Report](A1-Regression/report.pdf)
 
 ### Assignment 2 - EM-algorithm
+
 
 ### Assignment 3 - Gibbs sampling and mean field variational bayes
 
